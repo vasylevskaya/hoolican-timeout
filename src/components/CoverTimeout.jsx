@@ -34,12 +34,12 @@ const CoverTimeout = () => {
             />
             Release date
             <div className="release-date-line"/>
-            April 1, 2025
+            June 1, 2025
           </div>
         </div>
         <div className="cover-timeout-footer flex justify-between w-full gap-xs">
           <p>Unique. Collectible. Different.</p>
-          <p>© 2024 Hoolican. All rights reserved.</p>
+          <p>© 2025 Hoolican. All rights reserved.</p>
         </div>
       </div>
     </div>
