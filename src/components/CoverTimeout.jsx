@@ -34,7 +34,7 @@ const CoverTimeout = () => {
             />
             Release date
             <div className="release-date-line"/>
-            June 1, 2025
+            August 1, 2025
           </div>
         </div>
         <div className="cover-timeout-footer flex justify-between w-full gap-xs">

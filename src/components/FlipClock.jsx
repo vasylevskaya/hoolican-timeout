@@ -29,7 +29,7 @@ class FlipClock extends React.Component {
 
   updateTime() {
     // Target date
-    const targetDate = new Date("2025-06-01T00:00:00");
+    const targetDate = new Date("2025-08-01T00:00:00");
     const currentTime = new Date();
     const timeDifference = targetDate.getTime() - currentTime.getTime();
 
